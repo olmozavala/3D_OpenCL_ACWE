@@ -5,6 +5,10 @@ This is an OpenCL implementation that computes the 3D Active Contours Without Ed
 The algorithm is from the paper "Active Contours Without Edges"
 from Chan and Vase.
 
+This work uses NiFTI images as input 3D data. The NiFTI images are
+heavily used in the medical imaging field, specifically for breast DCE-MRI and fMRI data.
+You can find a test image in the images folder. 
+
 # Clone
 This project uses a couple of wrappers and utilities that are available
 at the OZlib repository and it also uses the Signed Distance Function
