@@ -65,23 +65,23 @@ Or with the script file
 This program have some options that didn't make to the top menus and 
 are very important:
 
-up,down         Moves the ROI in the vertical direction (transverse plane).
-left,right      Moves the ROI in the horizontal direction (coronal plane).
-Ctrl+up,        Moves the ROI in the Z direction (coronal plane).
-Ctrl+down
-I           Starts and stops the iteration of the segmentation algorithm.
-J           Toggles the visualization of the segmented region.
-P           Toggles the visualization scheme between orthogonal planes and ray casting.
-Q           Quits the application.
-S           Open the image selection dialog.
-T           Display the time taken to compute the last segmentation in the terminal.
-c,C         Moves the position of the transverse plane.
-x,X         Moves the position of the sagital plane.
-z,Z         Moves the position of the coronal plane.
-+,-         Increases and reduces the size of the ROI.
-1,2,3       Aligns the camera to the coronal, transverse, and sagital planes respectively.
-            It also resets the position of the orthogonal planes to the center.
-9,0         Increases and reduces the brightness of the ray casting visualization scheme
+    up,down         Moves the ROI in the vertical direction (transverse plane). 
+    left,right      Moves the ROI in the horizontal direction (coronal plane).
+    Ctrl+up,        Moves the ROI in the Z direction (coronal plane).
+    Ctrl+down
+    I           Starts and stops the iteration of the segmentation algorithm.
+    J           Toggles the visualization of the segmented region.
+    P           Toggles the visualization scheme between orthogonal planes and ray casting.
+    Q           Quits the application.
+    S           Open the image selection dialog.
+    T           Display the time taken to compute the last segmentation in the terminal.
+    c,C         Moves the position of the transverse plane.
+    x,X         Moves the position of the sagital plane.
+    z,Z         Moves the position of the coronal plane.
+    +,-         Increases and reduces the size of the ROI.
+    1,2,3       Aligns the camera to the coronal, transverse, and sagital planes respectively.
+                It also resets the position of the orthogonal planes to the center.
+    9,0         Increases and reduces the brightness of the ray casting visualization scheme
             by 2%.
 
 # Update submodules
