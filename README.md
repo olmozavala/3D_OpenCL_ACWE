@@ -62,7 +62,7 @@ Or with the script file
 
 
 # Options
-This program have some options that didn't make to the top menus and 
+This program have some options that didn't make it to the top menus and 
 are very important:
 
     up,down         Moves the ROI in the vertical direction (transverse plane). 
